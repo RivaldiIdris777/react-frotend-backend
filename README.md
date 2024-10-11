@@ -4,7 +4,9 @@ Project ini digunakan untuk mengetahui lokasi letak frontend dan letak backend.
 
 Screenshot app:
 
-![alt text](https://github.com/RivaldiIdris777/laravel_web_antrian/blob/main/public/upload/sc_app/antrianappsc.png?raw=true)
+![alt text](https://github.com/RivaldiIdris777/react-frotend-backend/blob/main/src/assets/frontendview.png?raw=true)
+
+![alt text](https://github.com/RivaldiIdris777/react-frotend-backend/blob/main/src/assets/backendview.png?raw=true)
 
 
 ### Announcement
